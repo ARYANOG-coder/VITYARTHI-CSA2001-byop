@@ -170,6 +170,6 @@ All data is stored locally in plain CSV files inside the `data/` folder. These f
 
 ## Author
 
-**[Your Name]**  
+**[Aryan uday kansagara]**  
 VIT — Python Programming Course  
 BYOP Capstone Project
